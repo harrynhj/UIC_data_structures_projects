@@ -1,0 +1,43 @@
+*********************************************************
+ourvector<i> stats:
+ # of vectors created:   7
+ # of elements inserted: 26
+ # of elements accessed: 37
+*********************************************************
+*********************************************************
+ourvector<c> stats:
+ # of vectors created:   10
+ # of elements inserted: 221
+ # of elements accessed: 1709
+*********************************************************
+*********************************************************
+ourvector<9ourvectorIcE> stats:
+ # of vectors created:   1
+ # of elements inserted: 4
+ # of elements accessed: 752
+*********************************************************
+*********************************************************
+ourvector<NSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEE> stats:
+ # of vectors created:   14
+ # of elements inserted: 36
+ # of elements accessed: 44
+*********************************************************
+*********************************************************
+ourvector<9ourvectorINSt7__cxx1112basic_stringIcSt11char_traitsIcESaIcEEEE> stats:
+ # of vectors created:   1
+ # of elements inserted: 3
+ # of elements accessed: 6
+*********************************************************
+I used the following command line to test the vector class:
+load_db small.txt
+load_dna 1.txt
+process
+display
+show_all (Creative Component, shows all STR occurrences in DNA sequence)
+search
+#
+
+ourvector<i> is a vector of integers. In main menu, I created result and all_results vectors,
+temp result
+
+
